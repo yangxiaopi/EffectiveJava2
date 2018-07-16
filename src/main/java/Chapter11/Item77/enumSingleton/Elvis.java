@@ -1,4 +1,4 @@
-package Chapter11.Item77.// Enum singleton - the preferred approach - Page 311
+package Chapter11.Item77.enumSingleton;// Enum singleton - the preferred approach - Page 311
 
 import java.util.*;
 

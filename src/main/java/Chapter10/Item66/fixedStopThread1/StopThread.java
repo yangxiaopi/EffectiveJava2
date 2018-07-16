@@ -1,4 +1,4 @@
-package Chapter10.Item66.fixed// Properly synchronized cooperative thread termination - Page 261
+package Chapter10.Item66.fixedStopThread1;// Properly synchronized cooperative thread termination - Page 261
 
 import java.util.concurrent.*;
 

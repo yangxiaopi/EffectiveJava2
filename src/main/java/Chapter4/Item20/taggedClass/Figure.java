@@ -1,4 +1,4 @@
-package Chapter4.Item20.tagged
+package Chapter4.Item20.taggedClass;
 
 // Tagged class - vastly inferior to a class hierarchy!
 class Figure {

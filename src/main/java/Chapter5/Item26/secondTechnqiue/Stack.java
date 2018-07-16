@@ -1,4 +1,4 @@
-package Chapter5.Item26.second// Generic stack using Object[] - Pages 125-127
+package Chapter5.Item26.secondTechnqiue;// Generic stack using Object[] - Pages 125-127
 
 import java.util.Arrays;
 

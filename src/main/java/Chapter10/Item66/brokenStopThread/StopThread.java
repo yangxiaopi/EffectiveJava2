@@ -1,9 +1,9 @@
-package Chapter10.Item66.fixed// Cooperative thread termination with a volatile field
+package Chapter10.Item66.brokenStopThread;// Broken! - How long would you expect this program to run? - Page 259
 
 import java.util.concurrent.*;
 
 public class StopThread {
-    private static volatile boolean stopRequested;
+    private static boolean stopRequested;
 
     public static void main(String[] args)
             throws InterruptedException {
